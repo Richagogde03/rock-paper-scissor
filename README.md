@@ -12,7 +12,4 @@ Real-time result display (Win, Lose, or Draw)
 
 Minimal, responsive UI
 
-Technologies Used
-HTML5
-CSS3
-JavaScript 
+Technologies Used:- HTML5, CSS3, JavaScript 
